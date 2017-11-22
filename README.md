@@ -1,5 +1,11 @@
 # SCS - Sistema de Controle de Serviços
-Aplicação desenvolvida em Portugol - <a href="http://visualg3.com.br/" target="_blank" title="Link para página oficial do VisualG 3.0"> VisualG 3.0 </a> para resolução do exercício abaixo: Todas as soluções devem ser feitas através das estruturas de dados heterogêneas (Registros) e implementadas no visualg. 4-Uma empresa prestadora de serviços armazena informações sobre os serviços prestados. Sabe-se que a empresa pode realizar no máximo três serviços diariamente. É de interessa da direção manter um histórico mensal (30 dias) sobre os serviços prestados. A empresa realiza quatro tipos de serviços: pintura, jardinagem, faxina e reforma em geral. Cada serviço deve ser cadastrado por código e descrição. Para isso utilize um vetor de quatro posições. O programa deverá mostrar o seguinte menu de opções:
+Aplicação desenvolvida em Portugol - <a href="http://visualg3.com.br/" target="_blank" title="Link para página oficial do VisualG 3.0">VisualG 3.0 </a> para resolução do exercício abaixo: 
+<p>
+Todas as soluções devem ser feitas através das estruturas de dados heterogêneas (Registros); 
+</p>
+<p>
+Uma empresa prestadora de serviços armazena informações sobre os serviços prestados. Sabe-se que a empresa pode realizar no máximo três serviços diariamente. É de interessa da direção manter um histórico mensal (30 dias) sobre os serviços prestados. A empresa realiza quatro tipos de serviços: pintura, jardinagem, faxina e reforma em geral. Cada serviço deve ser cadastrado por código e descrição. Para isso utilize um vetor de quatro posições. O programa deverá mostrar o seguinte menu de opções:
+</p>
 <ol>
   <li>cadastro dos tipos de serviços
   </li>
